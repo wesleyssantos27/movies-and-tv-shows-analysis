@@ -11,8 +11,6 @@ Dataset source: https://www.kaggle.com/datasets/dgoenrique/netflix-movies-and-tv
 
    - Great expectations
    
-   - DBT
-   
    
 - Tableau
 
