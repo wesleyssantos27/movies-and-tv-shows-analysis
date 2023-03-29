@@ -1,0 +1,13 @@
+From Credits (Actors Dataset)
+1 - Number of character by Actor
+2 - Number of movies for Actor
+3 - Detail cast of best rated movies
+4 - Number of actores the have been directors at least once
+
+From Titles (Movies list and ratings)
+1 - Rank (top 10) best movies. Let decrease cardinality down to gender. - Feito
+2 - Number of movies by gender - Feito
+3 - Mean runtime by gender - Feito
+4 - Number of movies by countries - Feito
+5 - Table details for top 10 - title, cast, runtime, gender, release_year, production_country, description - 
+6 - Check just movies, eliminate the rest - Feito
